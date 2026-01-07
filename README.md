@@ -1,6 +1,7 @@
 # AI-Powered Product Price Comparison System
 
 A modern, real-time price comparison platform that searches across India's top 6 e-commerce marketplaces to help you find the best deals instantly.
+Your site has been successfully published! You can view it at: https://ai-powered-product-p-z0jc.bolt.host
 
 ## Features
 
