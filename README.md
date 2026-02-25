@@ -3,7 +3,7 @@
 A modern, real-time price comparison platform that searches across India's top 6 e-commerce marketplaces to help you find the best deals instantly.
 
 
-##**Your site has been successfully published! You can view it at: https://ai-powered-real-time-v55a.bolt.host**
+##**Your site has been successfully published! You can view it at: https://ai-powered-real-time-v55a.bolt.host **
 
 ## Features
 
